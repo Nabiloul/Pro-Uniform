@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pro-Uniform | Accueil</title>
+  </head>
+  <body>
+    <header>
+      <h1>Pro-Uniform</h1>
+      <nav>
+        <ul>
+          <li><a href="maillots.html">Maillots de football</a></li>
+          <li><a href="shorts.html">Shorts de football</a></li>
+          <li><a href="accessoires.html">Accessoires</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Bienvenue chez Pro-Uniform !</h2>
+      <p>Nous sommes spécialisés dans la vente de maillots, shorts et accessoires de football de qualité supérieure pour les joueurs de tous niveaux.</p>
+      <p>Explorez notre collection de produits et trouvez l'équipement parfait pour votre équipe !</p>
+    </main>
+    <footer>
+      <p>&copy; 2023 Pro-Uniform. Tous droits réservés.</p>
+    </footer>
+  </body>
+</html>
